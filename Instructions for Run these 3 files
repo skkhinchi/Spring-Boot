@@ -1,0 +1,4 @@
+1.Update All these files and Run the MyApp.java Program via Java Application.
+2. Go to Browser and Run the local Host port 8080
+3. And Paste the url(http://localhost:8080/welcome?name=Sumit)
+"Sumit" keyword is user defined.
